@@ -18,3 +18,6 @@ Python 3.8+ recommended
 ```
 python main.py
 ```
+
+# Note
+All assets are unfinished, and the game is not well balanced.
