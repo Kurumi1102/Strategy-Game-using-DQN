@@ -2,9 +2,7 @@
 Installation
 1. Clone the repository
 
-```git clone https://github.com/Kurumi1102/Strategy-Game-using-DQN.git
-cd Strategy-Game-using-DQN
-```
+```git clone https://github.com/Kurumi1102/Strategy-Game-using-DQN.git \n cd Strategy-Game-using-DQN```
 2. Install dependencies
 ```pip install -r requirements.txt```
 
